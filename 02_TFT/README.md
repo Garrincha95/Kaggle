@@ -47,7 +47,7 @@
 > > * Cybernetic (사이버네틱)
 > > * Vanguard (선봉대)
 > >
-> > ![challenger_combi](C:\Users\cksgh\Desktop\challenger_combi.png)
+> > ![challenger_combi](https://user-images.githubusercontent.com/57612261/107337400-a5735000-6afd-11eb-8d93-822bd06f2d7f.png)
 >
 > > **직업 시너지 TOP3**
 > >
@@ -55,7 +55,7 @@
 > > * Blaster (총잡이)
 > > * Brawler (싸움꾼)
 > >
-> > ![challenger_class](C:\Users\cksgh\Desktop\challenger_class.png)
+> > ![challenger_class](https://user-images.githubusercontent.com/57612261/107337401-a60be680-6afd-11eb-963a-2e42f79b00e6.png)
 >
 > > **계열 시너지 TOP3**
 > >
@@ -63,7 +63,7 @@
 > > * Cybernetic (사이버네틱)
 > > * Valryrie (발키리)
 > >
-> > ![challenger_origin](C:\Users\cksgh\Desktop\challenger_origin.png)
+> > ![challenger_origin](https://user-images.githubusercontent.com/57612261/107337404-a60be680-6afd-11eb-9c87-7153feb350c9.png)
 >
 > > **시너지 조합 TOP3** 
 > >
@@ -77,7 +77,7 @@
 > > * Blitzcrank (블리츠크랭크)
 > > * Ezreal (이즈리얼)
 > >
-> > ![challenger_champ](C:\Users\cksgh\Desktop\challenger_champ.png)
+> > ![challenger_champ](https://user-images.githubusercontent.com/57612261/107337389-a3a98c80-6afd-11eb-9e7f-4655b3cb521a.png)
 
 >**순위 TOP4**
 >
@@ -87,7 +87,7 @@
 >> * Cybernetic (사이버네틱)
 >> * Valkyrie (발키리)
 >>
->> ![challenger_top4combi](C:\Users\cksgh\Desktop\challenger_top4combi.png)
+>> ![challenger_top4combi](https://user-images.githubusercontent.com/57612261/107337392-a4422300-6afd-11eb-8ace-9c3822c99287.png)
 >
 >> **직업 시너지 TOP3**
 >>
@@ -95,7 +95,7 @@
 >> * Blaster (총잡이)
 >> * Brawler (싸움꾼)
 >>
->> ![challenger_top4class](C:\Users\cksgh\Desktop\challenger_top4class.png)
+>> ![challenger_top4class](https://user-images.githubusercontent.com/57612261/107337393-a4dab980-6afd-11eb-8c0d-e7c27338130e.png)
 >
 >> **계열 시너지 TOP3**
 >>
@@ -103,7 +103,7 @@
 >> * Cybernetic (사이버네틱)
 >> * Valryrie (발키리)
 >>
->> ![challenger_top4origin](C:\Users\cksgh\Desktop\challenger_top4origin.png)
+>> ![challenger_top4origin](https://user-images.githubusercontent.com/57612261/107337395-a4dab980-6afd-11eb-889a-ef2d022e83e5.png)
 >
 >> **시너지 조합 TOP3** 
 >>
@@ -117,4 +117,4 @@
 >> * Miss Fortune (미스 포츈)
 >> * Blitzcrank (블리츠크랭크)
 >>
->> ![challenger_top4champ](C:\Users\cksgh\Desktop\challenger_top4champ.png)
+>> ![challenger_top4champ](https://user-images.githubusercontent.com/57612261/107337397-a5735000-6afd-11eb-8e6a-5ab9e9a2c8f8.png)
