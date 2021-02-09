@@ -6,6 +6,8 @@
 
 **[2. 코드 리뷰](#2-코드-리뷰)**
 
+---
+
 ## 1. 프로젝트 소개
 
 > **개요**: Kaggle 'Titanic: Machine Learning from Disaster'의 [Dataset](https://www.kaggle.com/c/titanic/data)을 사용하고 Python을 사용하여 분석 및 생존 예측
